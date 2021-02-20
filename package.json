@@ -54,5 +54,8 @@
     "*.{js,md,css}": [
       "prettier --trailing-comma es5 --single-quote --write"
     ]
+  },
+  "dependencies": {
+    "puppeteer": "^7.1.0"
   }
 }
